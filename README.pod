@@ -1,0 +1,1 @@
+lib/CatalystX/RequestRole/StrictParams.pm
